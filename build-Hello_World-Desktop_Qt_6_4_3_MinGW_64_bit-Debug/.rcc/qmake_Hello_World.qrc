@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Hello_World">
+    <file alias="qmldir">C:/Users/glady/OneDrive/Documents/repoGit/Hello_World-QT/build-Hello_World-Desktop_Qt_6_4_3_MinGW_64_bit-Debug/Hello_World/qmldir</file>
+  </qresource>
+</RCC>
+

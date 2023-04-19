@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Hello_World/">
+    <file alias="Main.qml">C:/Users/glady/OneDrive/Documents/repoGit/Hello_World-QT/Hello_World/Main.qml</file>
+  </qresource>
+</RCC>
+
